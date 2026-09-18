@@ -1,0 +1,61 @@
+{
+  "@@locale": "en",
+
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+
+  "appName": "World Calendar",
+
+  "commonOk": "OK",
+  "commonYes": "Yes",
+  "commonNo": "NO",
+  "commonCancel": "Cancel",
+  "commonDone": "Done",
+  "dialogSocketError": "A network error has occurred. Please check and try again.",
+
+  "reference": "Reference : ",
+  "wikipedia": "Wikipedia",
+  "countryEvents": "Holidays",
+  "worldEvents": "World\nEvents",
+  "emptyEvents": "Events does not exist.",
+
+  "drawerCountry": "Select Country",
+  "drawerLicense": "License",
+  "drawerInfo": "Other information",
+
+  "licenseCount": "License:%s",
+
+  "infoRelatedApp": "Other Apps by the Developer",
+
+  "dateFormatStringYM": "yMMMM",
+  "dateFormatStringYMD": "dd MMMM yyyy",
+  "dateFormatStringWiki": "MMMM_d",
+  "dateWeekSun": "SUN",
+  "dateWeekMon": "MON",
+  "dateWeekTue": "TUE",
+  "dateWeekWed": "WED",
+  "dateWeekThu": "THU",
+  "dateWeekFri": "FRI",
+  "dateWeekSat": "SAT",
+  "dateIntercalation": "Leap",
+  "dateLunar": "Lunar",
+  "dateSubstitute": "Substitute holiday",
+
+  "countryUS": "United States",
+  "countryCA": "Canada",
+  "countryFR": "France",
+  "countryIE": "Ireland",
+  "countryGBENG": "England",
+  "countryGBWLS": "Wales",
+  "countryGBSCT": "Scotland",
+  "countryGBNIR": "Northern Ireland",
+  "countryDE": "Germany",
+  "countryAU": "Australia",
+  "countryJP": "Japan",
+  "countryKR": "South Korea",
+  "countryHK": "Hong Kong",
+  "countryCN": "China",
+  "countryTW": "Taiwan"
+}

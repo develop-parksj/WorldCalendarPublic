@@ -1,0 +1,61 @@
+{
+  "@@locale": "ja",
+
+  "helloWorld": "こんにちは世界！",
+  "@helloWorld": {
+    "description": "新米プログラマーの挨拶"
+  },
+
+  "appName": "世界のカレンダー",
+
+  "commonOk": "OK",
+  "commonYes": "はい",
+  "commonNo": "いいえ",
+  "commonCancel": "キャンセル",
+  "commonDone": "決定",
+  "dialogSocketError": "ネットワークエラーが発生しました。確認の上、やり直してください。",
+
+  "reference": "レファレンス：",
+  "wikipedia": "ウィキペディア",
+  "countryEvents": "記念日",
+  "worldEvents": "世界の\nできごと",
+  "emptyEvents": "記念日が存在しません。",
+
+  "drawerCountry": "国選択",
+  "drawerLicense": "ライセンス",
+  "drawerInfo": "その他の情報",
+
+  "licenseCount": "ライセンス:%s件",
+
+  "infoRelatedApp": "開発者の他のアプリ",
+
+  "dateFormatStringYM": "yyyy年MM月",
+  "dateFormatStringYMD": "yyyy年MM月dd日",
+  "dateFormatStringWiki": "M月d日",
+  "dateWeekSun": "日",
+  "dateWeekMon": "月",
+  "dateWeekTue": "火",
+  "dateWeekWed": "水",
+  "dateWeekThu": "木",
+  "dateWeekFri": "金",
+  "dateWeekSat": "土",
+  "dateIntercalation": "閏",
+  "dateLunar": "旧暦",
+  "dateSubstitute": "振替休日",
+
+  "countryUS": "アメリカ",
+  "countryCA": "カナダ",
+  "countryFR": "フランス",
+  "countryIE": "アイルランド",
+  "countryGBENG": "イングランド",
+  "countryGBWLS": "ウェールズ",
+  "countryGBSCT": "スコットランド",
+  "countryGBNIR": "北アイルランド",
+  "countryDE": "ドイツ",
+  "countryAU": "オーストラリア",
+  "countryJP": "日本",
+  "countryKR": "大韓民国",
+  "countryHK": "香港",
+  "countryCN": "中国",
+  "countryTW": "台湾"
+}

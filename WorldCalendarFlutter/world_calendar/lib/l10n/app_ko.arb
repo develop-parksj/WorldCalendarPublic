@@ -1,0 +1,61 @@
+{
+  "@@locale": "ko",
+
+  "helloWorld": "こんにちは世界！",
+  "@helloWorld": {
+    "description": "新米プログラマーの挨拶"
+  },
+
+  "appName": "세계의 달력",
+
+  "commonOk": "OK",
+  "commonYes": "예",
+  "commonNo": "아니오",
+  "commonCancel": "취소",
+  "commonDone": "확인",
+  "dialogSocketError": "네트워크 에러가 발생했습니다. 확인 후 다시 시도해 주세요.",
+
+  "reference": "출처 : ",
+  "wikipedia": "위키백과",
+  "countryEvents": "기념일",
+  "worldEvents": "세계의\n사건",
+  "emptyEvents": "기념일이 존재하지 않습니다.",
+
+  "drawerCountry": "국가 선택",
+  "drawerLicense": "라이센스",
+  "drawerInfo": "이외의 정보",
+
+  "licenseCount": "라이센스:%s건",
+
+  "infoRelatedApp": "개발자의 다른 앱",
+
+  "dateFormatStringYM": "yyyy년 MM월",
+  "dateFormatStringYMD": "yyyy년 MM월 dd일",
+  "dateFormatStringWiki": "M월_d일",
+  "dateWeekSun": "일",
+  "dateWeekMon": "월",
+  "dateWeekTue": "화",
+  "dateWeekWed": "수",
+  "dateWeekThu": "목",
+  "dateWeekFri": "금",
+  "dateWeekSat": "토",
+  "dateIntercalation": "윤",
+  "dateLunar": "음력",
+  "dateSubstitute": "대체공휴일",
+
+  "countryUS": "미국",
+  "countryCA": "캐나다",
+  "countryFR": "프랑스",
+  "countryIE": "아일랜드",
+  "countryGBENG": "잉글랜드",
+  "countryGBWLS": "웨일스",
+  "countryGBSCT": "스코틀랜드",
+  "countryGBNIR": "북아일랜드",
+  "countryDE": "독일",
+  "countryAU": "호주",
+  "countryJP": "일본",
+  "countryKR": "대한민국",
+  "countryHK": "홍콩",
+  "countryCN": "중국",
+  "countryTW": "대만"
+}

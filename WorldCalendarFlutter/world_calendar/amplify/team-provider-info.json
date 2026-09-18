@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-worldcalendar-dev-0c5f7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::687437252019:role/amplify-worldcalendar-dev-0c5f7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::687437252019:role/amplify-worldcalendar-dev-0c5f7-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-worldcalendar-dev-0c5f7-deployment",
+      "UnauthRoleName": "amplify-worldcalendar-dev-0c5f7-unauthRole",
+      "StackName": "amplify-worldcalendar-dev-0c5f7",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:687437252019:stack/amplify-worldcalendar-dev-0c5f7/eed11dd0-473b-11f0-8ccd-0e469adf4609",
+      "AmplifyAppId": "d372ek73l8ybob"
+    },
+    "categories": {
+      "auth": {
+        "worldcalendar1b5f3ee8": {}
+      },
+      "storage": {
+        "WorldCalendarS3": {}
+      }
+    }
+  }
+}
